@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+
+}
+ul li a{
+    text-decoration: none;
+    padding: 30px;
+    font-family: "Old English Text MT", sans-serif;
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+ul li img{
+
+    width:130px;
+    height: 130px;
+    border-radius: 80px;
+    margin-right: 30px;
+    border: 8px solid #ca7d60;
+    margin-top: 30px;
+    margin-bottom: 15px;
+
+}
+aside{
+    margin-top: 0;
+    background-color: #bd5d38;
+    float: left;
+    height: 100%;
+    width: auto;
+    padding: 10px;
+    position: fixed;
+    border: 0;
+
+
+
+}
+aside ul li {
+    padding: 15px;
+
+
+}
+.name h1{
+
+    font-family: Saira Extra Condensed;
+    font-size: 70px;
+    display: inline-block;
+margin-top: 150px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+}
+.name h2{
+    margin-top: 0;
+    color: #95bbeb;
+    margin-left: 340px;
+}
+.name p{
+    margin-left: 340px;
+    color: #9ccaf5;
+    font-size: 20px;
+    font-family: "Old English Text MT", sans-serif;
+    margin-bottom: 300px;
+
+}
+aside ul li a:hover{
+    color: red;
+}
+aside ul li img:hover{
+    cursor: pointer;
+}
+.exp {
+    border-top:1px solid lightgrey ;
+margin-left: 340px;
+    margin-bottom: 200px;
+}
+.exp h1{
+    margin-bottom: 150px;
+}
+.exp h1 p{
+    margin-bottom: 100px;
+}
+.edu h1{
+    margin-bottom: 150px;
+}
+.edu{
+    margin-top: 50px;
+    border-top:1px solid lightgrey ;
+    margin-left: 340px;
+   margin-bottom: 200px;
+
+}
+.skills h1{
+    margin-bottom: 150px;
+}
+.skills{
+    border-top:1px solid lightgrey ;
+    margin-left: 340px;
+    margin-bottom: 200px;
+}
+.interest h1{
+    margin-bottom: 150px;
+}
+.interest{
+    border-top:1px solid lightgrey ;
+    margin-left: 340px;
+    margin-bottom: 200px;
+}
+.awards h1{
+    margin-bottom: 150px;
+}
+.awards{
+    border-top:1px solid lightgrey ;
+    margin-left: 340px;
+}
+.skills h2{
+    margin-bottom: 100px;
+}
+.interest p{
+    font-size: 20px;
+
+}
+.awards h5{
+    font-size: 18px;
+}
+.exp p{
+    font-size: 20px;
+    font-family: "Old English Text MT", sans-serif;
+}
